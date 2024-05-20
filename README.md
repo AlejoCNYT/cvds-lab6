@@ -5,5 +5,5 @@
 
 https://www.azuredevopslabs.com/labs/vstsextend/tomcat/
 
-[página](lab6acerotriana.azurewebsites.net)
-
+[Page](lab6acerotriana.azurewebsites.net)
+[Explication](https://youtu.be/WIIloL-j28M)
